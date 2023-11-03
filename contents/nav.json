@@ -1,0 +1,232 @@
+[
+    {
+        "key": "home",
+        "label": "首页"
+    },
+    {
+        "key": "basic",
+        "folder": true,
+        "label": "基础",
+        "children": [
+            {
+                "key": "what-is-component",
+                "label": "组件"
+            },
+            {
+                "key": "vnode"
+            },
+            {
+                "key": "function-node",
+                "label": "函数节点"
+            },
+            {
+                "key": "function-tag",
+                "label": "函数标签"
+            },
+            {
+                "key": "web-component",
+                "label": "WebComponents"
+            },
+            {
+                "key": "props",
+                "label": "props"
+            }
+        ]
+    },
+    {
+        "key": "advance",
+        "label": "进阶",
+        "folder": true,
+        "children": [
+            {
+                "key": "css",
+                "children": [
+                    {
+                        "key": "cssss"
+                    },
+                    {
+                        "key": "stylesheets"
+                    },
+                    {
+                        "key": "theme"
+                    }
+                ]
+            },
+            {
+                "key": "update",
+                "label": "更新"
+            },
+            {
+                "key": "binding",
+                "label": "绑定"
+            },
+            {
+                "key": "observing"
+            },
+            {
+                "key": "$"
+            },
+            {
+                "key": "api"
+            },
+            {
+                "key": "async",
+                "label": "异步"
+            },
+            {
+                "key": "micro-frontend",
+                "label": "微前端"
+            }
+        ]
+    },
+    {
+        "key": "UI",
+        "folder": true,
+        "children": [
+            {
+                "key": "forms",
+                "label":"表单",
+                "folder": true,
+                "children": [
+                    {
+                        "key": "select"
+                    },
+                    {
+                        "key": "table"
+                    },
+                    {
+                        "key": "check-radio"
+                    },
+                    {
+                        "key": "range"
+                    },
+                    {
+                        "key": "input-group"
+                    },
+                    {
+                        "key": "floating-labels"
+                    }
+                ]                
+            },
+            {
+                "key": "layout",
+                "label":"布局",
+                "folder": true,
+                "children": [
+                    {
+                        "key": "containers",
+                        "label":"容器"
+                    },
+                    {
+                        "key": "grid",
+                        "label":"表格"
+                    }
+                ]
+            },
+            {
+                "key": "content",
+                "label":"内容",
+                "folder": true,
+                "children": [
+                    {
+                        "key": "images",
+                        "label":"图片"
+                    },
+                    {
+                        "key": "tables",
+                        "label":"表格"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "styles",
+        "label":"样式",
+        "icon": "style",
+        "type": "folder",
+        "children": [
+            {
+                "key": "accordion",
+                "label": "手風琴"
+            },
+            {
+                "key": "alert",
+                "label": "警告"
+            },
+            {
+                "key": "badge",
+                "label": "徽章"
+            },
+            {
+                "key": "breadcrumb",
+                "label": "导航"
+            },
+            {
+                "key": "card",
+                "label": "卡片"
+            },
+            {
+                "key": "carousel",
+                "label": "幻灯"
+            },
+            {
+                "key": "buttons",
+                "label": "按钮"
+            },
+            {
+                "key": "dropdowns",
+                "label": "下拉列表"
+            },
+            {
+                "key": "listGroup",
+                "label": "列表"
+            },
+            {
+                "key": "modal",
+                "label": "对话框"
+            },
+            {
+                "key": "popover",
+                "label": "彈出層"
+            },
+            {
+                "key": "tooltip",
+                "label": "提示"
+            },
+            {
+                "key": "progress",
+                "label": "进度条"
+            },
+            {
+                "key": "toast",
+                "label": "提示框"
+            },
+            {
+                "key": "scrollbar",
+                "label": "滚动条",
+                "icon": "scroll"
+            },
+            {
+                "key": "oilayout",
+                "label": "布局"
+            },
+            {
+                "key": "import",
+                "label": "导入"
+            },
+            {
+                "key": "offcanvas",
+                "label": "边栏"
+            },
+            {
+                "key": "oiform",
+                "label": "wp 表单"
+            },
+            {
+                "key": "classes",
+                "label": "自动样式"
+            }            
+        ]
+    }
+]
